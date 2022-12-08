@@ -1,0 +1,21 @@
+{
+  "name": "projeto_pizzaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pizzas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateus184/Projeto_Pizzaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateus184/Projeto_Pizzaria/issues"
+  },
+  "homepage": "https://github.com/Mateus184/Projeto_Pizzaria#readme"
+  , "type": "module"
+}
