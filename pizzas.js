@@ -9,4 +9,4 @@ let pizzaJson = [
 ];
 
 
-// export {pizzaJson}
+export {pizzaJson}
